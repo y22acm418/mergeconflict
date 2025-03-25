@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file added at remote location 
+=======
+this is f2.txt created in feature branch
+>>>>>>> feature_branch
